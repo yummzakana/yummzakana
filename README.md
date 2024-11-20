@@ -5,7 +5,7 @@ I’m still developing my skills, but I love exploring different interests and t
 ## Languages
 **Cpp, Arduino**: I’m studying it right now.  
 **C and Python**: I’ve used them a bit before, just a tiny bit!!
-![](https://skillicons.dev/icons?i=cpp,c,arduino,python)
+![](https://skillicons.dev/icons?i=cpp,arduino,c,python)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yummzakana&show_icons=true&locale=en&layout=compact)
 
 ## Links
